@@ -1,5 +1,12 @@
 # Compiling Guide for Linux (Ubuntu 16.04)
 
+## Clone
+
+```
+git clone https://github.com/LordSoylent/kittycoin-1
+cd kittycoin-1
+```
+
 ## Dependencies
 
 (Prefix commands with "sudo" if not running as root, however, I recommend using root / superuser for easier compiling)
